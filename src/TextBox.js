@@ -1,9 +1,5 @@
 import React from 'react';
 
-function onKeyUp(event) {
-    console.log("Changing", event.target.value)
-}
-
 const TextBox = (props) => (
     <div>
         <label>
